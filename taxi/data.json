@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "first_name": "Sooraj",
+      "last_name": "Thomas",
+      "is_hipster": false
+    },
+    {
+      "first_name": "John",
+      "last_name": "Doe",
+      "is_hipster": true
+    },
+    {
+      "first_name": "Dave",
+      "last_name": "Smith",
+      "is_hipster": false
+    }
+  ],
+  "taxis": [
+    {
+      "first_name": "Shiva",
+      "last_name": "Kumar",
+      "is_pink": true,
+      "lat": 12.955425,
+      "long": 77.703599
+    },
+    {
+      "first_name": "Shiva",
+      "last_name": "Kumar",
+      "is_pink": false,
+      "lat": 12.955090,
+      "long": 77.685961
+    }
+  ]
+}
