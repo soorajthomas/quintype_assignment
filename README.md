@@ -22,3 +22,6 @@ directory part if you are already in that directory else replace it with the act
 4. Install the requirements for the project using the command
 
         pip install -r requirements.txt
+5. Start the application using the command
+        
+        python manage.py runserver
